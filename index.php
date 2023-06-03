@@ -19,9 +19,9 @@ include_once './includes/header.php';
             </div>
             <div class="col-md-6">
                 <div class="hero-content" data-speed="0.10" data-revert="true">
-                    <span data-aos="fade-left" data-aos-duration="1200" data-aos-delay="200">We'll Save Our Planet</span>
-                    <h1 data-aos="fade-left" data-aos-duration="1200" data-aos-delay="300">Lets Make Our Earth Green and Clean</h1>
-                    <p data-aos="fade-left" data-aos-duration="1200" data-aos-delay="400">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sollic itudin consectetur netus dui, ultrices or lectus ac egestas. Vivamus tellus vestibulum aliquet arcu. </p>
+                    <span data-aos="fade-left" data-aos-duration="1200" data-aos-delay="200">Drive Safely</span>
+                    <h1 data-aos="fade-left" data-aos-duration="1200" data-aos-delay="300">Driving Recklessly Can Take Someone's Life</h1>
+                    <p data-aos="fade-left" data-aos-duration="1200" data-aos-delay="400">At Aajah's House, a 501 (c)(3) nonprofit, established to raised driving awareness and road safety through community engagements. We empower individuals and families in solving community problems and improving the quality of the community life. We engage in social development and believe in creating positive experiences. At Aajah's House our vision is to provide a variety of programs with the best possible service, quality and value for everyone.</p>
                     <a href="register.php" class="btn style2">Join With us</a>
                 </div>
             </div>
@@ -37,11 +37,11 @@ include_once './includes/header.php';
             <div class="col-lg-6 order-lg-1 order-2" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                 <div class="about-content">
                     <div class="content-title style3">
-                        <span>A Little Introduction</span>
-                        <h2>Protect Our Earth Against Climate Change</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sollicitudin consectetur netus dui, ultrices or lectus ac egestas. Vivamus tellus vestibulum aliquet arcu a duis. Sollicitudin consectetur netus du ultric. </p>
+                        <span>About Us</span>
+                        <h2>Aajah's House</h2>
+                        <p>My name is Khrystal Bethea-Artist, founder of Aajah's House. On October 18, 2020, my 16 year old daughter Aajah Rosemond was struck and killed in a two car collision while walking to the store. I now advocate for the community regarding driving awareness.</p>
                     </div>
-                    <ul class="content-feature-list list-style">
+                    <ul class="content-feature-list list-style d-none">
                         <li><i class="ri-checkbox-circle-line"></i>Curabitur vitae ullamcorper libe roras id augue
                         </li>
                         <li><i class="ri-checkbox-circle-line"></i>Felis cras luctus nisi in tincidunt blandit
@@ -50,7 +50,7 @@ include_once './includes/header.php';
                         </li>
                         <li><i class="ri-checkbox-circle-line"></i>Mauris vitae purus blandit fermentum </li>
                     </ul>
-                    <a href="about.php" class="btn style2">Find Out More</a>
+                    <a href="about.php" class="btn style2 d-none">Find Out More</a>
                 </div>
             </div>
             <div class="col-lg-6 order-lg-2 order-1" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
