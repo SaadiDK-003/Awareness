@@ -14,13 +14,13 @@ include_once './includes/header.php';
             <div class="col-md-6">
                 <div class="hero-img-wrap">
                     <img src="assets/img/hero/hero-shape-5.png" alt="Image" class="hero-img-shape waving_left">
-                    <img src="assets/img/hero/hero-img-2.jpg" alt="Image">
+                    <img src="assets/img/hero/driving-hero-banner.png" alt="Image">
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="hero-content" data-speed="0.10" data-revert="true">
                     <span data-aos="fade-left" data-aos-duration="1200" data-aos-delay="200">Drive Safely</span>
-                    <h1 data-aos="fade-left" data-aos-duration="1200" data-aos-delay="300">Driving Recklessly Can Take Someone's Life</h1>
+                    <h1 data-aos="fade-left" data-aos-duration="1200" data-aos-delay="300">Safe driving awareness through aajah's house</h1>
                     <p data-aos="fade-left" data-aos-duration="1200" data-aos-delay="400">At Aajah's House, a 501 (c)(3) nonprofit, established to raised driving awareness and road safety through community engagements. We empower individuals and families in solving community problems and improving the quality of the community life. We engage in social development and believe in creating positive experiences. At Aajah's House our vision is to provide a variety of programs with the best possible service, quality and value for everyone.</p>
                     <a href="register.php" class="btn style2">Join With us</a>
                 </div>
@@ -55,7 +55,7 @@ include_once './includes/header.php';
             </div>
             <div class="col-lg-6 order-lg-2 order-1" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
                 <div class="about-img-wrap">
-                    <img src="assets/img/about/about-img-3.png" alt="Image" class="bounce">
+                    <img src="assets/img/about/girl_.png" alt="Image" class="bounce">
                     <img src="assets/img/about/about-shape-1.png" alt="Image" class="about-shape-one">
                 </div>
             </div>
